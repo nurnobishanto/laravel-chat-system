@@ -7,25 +7,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel Chat System
+<h1> About Laravel Chat System Login Information</h1>
 
-<h1>User 1</h1>
+##User 1
 user: u1@admin.com <br>
 password : 12345678
 
-#User 2
+##User 2
 user: user2@admin.com <br>
 password : 12345678
 
-#User 3
+##User 3
 user: u3@admin.com <br>
 password : 12345678
 
-#User 4
+##User 4
 user: u4@admin.com <br>
 password : 12345678
 
-#User 5
+##User 5
 user: u5@admin.com <br>
 password : 12345678
 

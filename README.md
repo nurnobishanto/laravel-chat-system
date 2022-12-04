@@ -15,23 +15,23 @@ Now Check the system
 <h1> About Laravel Chat System Login Information</h1>
 
 <h2>User 1</h2>
-user: u1@admin.com <br>
+username or email: u1@admin.com <br>
 password : 12345678
 
 <h2>User 2</h2>
-user: user2@admin.com <br>
+username or email: user2@admin.com <br>
 password : 12345678
 
 <h2>User 3</h2>
-user: u3@admin.com <br>
+username or email: u3@admin.com <br>
 password : 12345678
 
 <h2>User 4</h2>
-user: u4@admin.com <br>
+username or email: u4@admin.com <br>
 password : 12345678
 
 <h2>User 5</h2>
-user: u5@admin.com <br>
+username or email: u5@admin.com <br>
 password : 12345678
 
 

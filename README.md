@@ -9,7 +9,7 @@
 
 ## About Laravel Chat System
 
-#User 1
+<h1>User 1</h1>
 user: u1@admin.com <br>
 password : 12345678
 

@@ -9,7 +9,24 @@
 
 ## About Laravel Chat System
 
-user:
+#User 1
+user: u1@admin.com <br>
+password : 12345678
+
+#User 2
+user: user2@admin.com <br>
+password : 12345678
+
+#User 3
+user: u3@admin.com <br>
+password : 12345678
+
+#User 4
+user: u4@admin.com <br>
+password : 12345678
+
+#User 5
+user: u5@admin.com <br>
 password : 12345678
 
 

@@ -1,11 +1,16 @@
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+<h1> Project Setup</h1>
+<ul>
+    <li>Download or Import the project</li>
+    <li>Create Database and Import the database(chat.sql) from file</li>
+    <li>Change the database information  from .env file</li>
+    <li>Open Command Prompt on Project Root file</li>
+    <li>Run npm install (if front design not working otherwise ignore it)</li>
+    <li>Run npm run dev (if front design not working otherwise ignore it)</li>
+    <li>Run php artisan serve</li>
+</ul>
+Now Check the system 
 
 <h1> About Laravel Chat System Login Information</h1>
 
